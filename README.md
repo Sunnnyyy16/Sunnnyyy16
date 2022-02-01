@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunnnyyy16
 - 👀 I’m interested in Data Analysis/Visualization
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python/MySQL
 
 
 <!---
