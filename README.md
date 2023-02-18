@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunnnyyy16
-- 👀 I’m interested in Data Analysis/Visualization
+- 👀 I’m interested in Data Analysis/Visualization, Artificial Intelligence
 - 🌱 I’m currently learning Python, MySQL
 - blog: https://sun-garret.tistory.com/
 
